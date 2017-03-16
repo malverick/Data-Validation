@@ -5,6 +5,9 @@ A mini-project on validation of data which the user enters.
 
 This project involves the creation of E-mail account of a user and checks in each step whether the input provided by the user is valid or not.
 
+For more knowledge on input validation, please refer to wiki page.
+https://github.com/malverick/Data-Validation/wiki
+
 The project is implemented in two ways:
 
 1. A stand-alone independent C program
@@ -16,7 +19,6 @@ To run the project -
 1. Clone the repository or download ZIP.
 
 # For cloning
-
 	1. Open terminal
 	2. `git clone https://github.com/malverick/Data-Validation.git`
 	3. `cd Data-Validation`
@@ -24,7 +26,6 @@ To run the project -
 (Now you are in the project directory) 
 
 # For downloading ZIP
-
 	1. Click on `Clone or Download` option at extreme right of header and `Download ZIP` from there.
 	2. Open terminal
 	3. `cd /dir/containing/downloaded/zip`
