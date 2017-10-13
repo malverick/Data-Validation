@@ -31,6 +31,7 @@ void input_last_name()                                                      //to
 	char name[100];
 	printf("\nPlease enter your last name.\n");
 	gets(name);
+	printf("%s\n", name);
 	f1 = is_empty(name);                                                    //to check for empty input
 	f2 = is_valid_name(name);                                               //validation for name
 	while( f1 != 1 || f2 != 1)
