@@ -2,8 +2,8 @@
 #include <string.h>                                                          //preprocessor directives
 #include <stdio.h>
 
-void input_first_name();                                                    //declaring functions
-void input_last_name();
+void input_first_name();                                                    //declaring functions	
+void input_last_name();							    //declearing prototype for functions used
 int is_valid_name( char s[] );
 void input_username();
 int is_valid_username( char s[] );
